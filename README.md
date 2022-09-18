@@ -11,3 +11,10 @@ Notes For Reference
 
 ![image](https://user-images.githubusercontent.com/73220561/190684985-e0d22101-09bb-4cdf-a112-6432084359dd.png)
 
+1. https://towardsdatascience.com/giving-vertex-ai-the-new-unified-ml-platform-on-google-cloud-a-spin-35e0f3852f25
+
+2. https://analyticsindiamag.com/everything-you-need-to-know-about-googles-vertex-ai/
+
+3. https://www.youtube.com/watch?v=gT4qqHMiEpA
+
+4. https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
