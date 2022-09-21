@@ -18,3 +18,9 @@ Notes For Reference
 3. https://www.youtube.com/watch?v=gT4qqHMiEpA
 
 4. https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
+
+5. https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8
+
+6. https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
+
+7. https://www.youtube.com/watch?v=EE2meHG_rDk
