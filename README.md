@@ -30,3 +30,6 @@ Notes For Reference
 9. https://www.thinkwithgoogle.com/feature/ml-fairness-for-marketers/
 
 10. https://cloud.google.com/inclusive-ml
+
+![image](https://user-images.githubusercontent.com/73220561/191789052-ab1316a4-db52-481b-8843-6c52b7f98b5d.png)
+
