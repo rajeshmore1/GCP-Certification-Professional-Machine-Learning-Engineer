@@ -24,3 +24,9 @@ Notes For Reference
 6. https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
 
 7. https://www.youtube.com/watch?v=EE2meHG_rDk
+
+8. https://medium.com/hackher413/10-methods-of-inclusive-machine-learning-34ad08748caf
+
+9. https://www.thinkwithgoogle.com/feature/ml-fairness-for-marketers/
+
+10. https://cloud.google.com/inclusive-ml
