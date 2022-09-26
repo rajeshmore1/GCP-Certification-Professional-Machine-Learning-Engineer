@@ -35,3 +35,7 @@ Notes For Reference
 
 1. https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
 
+2. https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
+
+3. https://www.geeksforgeeks.org/calibration-curves/
+
