@@ -33,3 +33,5 @@ Notes For Reference
 
 ![image](https://user-images.githubusercontent.com/73220561/191789052-ab1316a4-db52-481b-8843-6c52b7f98b5d.png)
 
+1. https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
+
